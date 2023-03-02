@@ -1,0 +1,42 @@
+
+.body{
+  background-color: #111827;
+}
+.title h1{
+    color: white;
+    text-align: center;
+    font-size: 3rem;
+    background-color: #111827;
+}
+.content{
+    display: flex;
+    
+    
+    background-color: #111827;
+    padding-left: 400px;
+  }
+  
+  .column {
+    flex-basis: 30%;
+    background-color: #111827;
+    
+  }
+  
+  .column ul {
+    list-style: none;
+    
+    padding: 20px;
+  }
+  
+  .column li {
+    background-color: white;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    padding: 10px;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    
+  }
+  
